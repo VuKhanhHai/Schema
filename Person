@@ -1,0 +1,30 @@
+<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "Person",
+		"name": "Tên chủ doanh nghiệp",							//tên chủ doanh nghiệp
+		"gender":"Male",										//giới tính Male hoặc Female
+		"birthDate":"1990.06.16",								//ngày tháng năm sinh theo cấu trúc năm/tháng/ngày
+		"image": "url hình ảnh chủ doanh nghiệp",				//hình ảnh chủ doanh nghiệp
+		"telephone": "1234 567 890",							//số điện thoại chủ doanh nghiệp
+		"email": "mailto:example@gmail.com",					//email chủ doanh nghiệp, thay email sau mailto:
+		"url": "https://dogogiakho.com",
+		"nationality": "Viet Nam",
+		"jobTitle": "chức vụ",									//chức vụ, ví dụ CEO
+		"worksFor": {
+			"@type": "Organization",
+			"name": "Tên công ty"								//tên doanh nghiệp
+		},
+		"sameAs": [
+			"https://www.facebook.com/....",					//link profile trên social
+			"https://twitter.com/..."							//link profile trên social
+		],
+		"address": {
+			"@type": "PostalAddress",
+			"streetAddress": "địa chỉ chủ doanh nghiệp",		//địa chỉ chủ doanh nghiệp
+			"addressLocality": "Quận ...",
+			"addressRegion": "Hồ Chí Minh",
+			"postalCode": "700000"
+		}
+	}
+</script>
