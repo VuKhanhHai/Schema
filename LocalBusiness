@@ -1,0 +1,43 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "@id": "https://bietthunghiduong.net",
+  "url": "https://bietthunghiduong.net",
+  "name": "Biệt thự nghỉ dưỡng ViVa",
+  "image": "https://theme.hstatic.net/1000314532/1000423274/14/logo.png",
+  "email": "info@bietthunghiduong.net",
+  "telephone": "028 73 000 225",
+  "description": "Biệt thự nghĩ dưỡng ViVa ra đời nhằm phục vụ nhu cầu nghĩ dưỡng của khách du lịch, muốn ở trong những khu biệt thự nghĩ dưỡng sang trọng, tại những vũng biển xinh đẹp của Việt Nam như: Nha Trang, Phan Thiết, Vũng Tàu, Hồ Tràm...",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Lầu 2, 101 Điện Biên Phủ",
+    "addressLocality": "Quận 1",
+    "addressRegion":"Hồ Chí Minh",
+    "postalCode": "700000",
+    "addressCountry": "VN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 10.789232,
+    "longitude": 106.6944322
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "opens": "08:00",
+    "closes": "17:00"
+  },
+  "sameAs": [
+    "",
+    ""
+  ]
+}
+</script>
